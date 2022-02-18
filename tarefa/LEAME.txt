@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------
+Minicurso - Verão 2022 - IMPA
+Ladrilhamentos do Plano: Representação Computacional e Visualização
+José Ezequiel Soto Sánchez
+--------------------------------------------------------------------------------
+O arquivo tarefa.zip contém 4 arquivos:
+
+LEAME.txt
+  Estas instruções...
+
+index.html
+  Documento pincipal para visualizar os resultados. Edite o necesário.
+
+some-tilings.json (a partir da semana 2)
+  Símbolos de alguns tilings. Se quiser testar uma coleção maior, consulte:
+  http://chequesoto.info/tilings.html
+
+tarefa.js
+  ATENÇÃO! Concentre seu trabalho neste arquivo!
+  Preste atenção às primeiras linhas, mude apenas as variáveis que permitem a
+  identificação do arquivo.
+
+  Se precisar colocar outro arquivos .js, inclua no zip!!!
+  A ideia é que todas as dependencias estejam incluidas na pasta.
+
+ENTREGA:
+Na tarefa do Google Classroom suba os seguintes arquivos:
+1. A sua cópia editada do arquivo: tarefa.zip
+2. Mínimo 2 e máximo 5 imagens do seu canvas salvas em PNG
